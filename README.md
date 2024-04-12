@@ -16,10 +16,15 @@ Az alábbiak alkalmazására legyen 1-1db példa mindegyikből:
 
 ### Osztályzás (az alábbiak sorban, egymásra épülnek):
 **1** - az applikáció fut
+
 **2** - felvette az endpoint-okat és azok működnek
+
 **3** - tud path és query paramétert feldolgozni
+
 **4** - tud `<form>` adatokat feldolgozni, `cookie`-t küldeni és fogadni
+
 **5** - minden fent leírt pontnak megfelel
+
 
 ### Határidő
 ***2024. február 19. 23:59***
