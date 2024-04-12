@@ -104,7 +104,7 @@ Az importált osztályok/függvények vesszővel elválasztva vannak felsorolva.
 
 ***Hogyan kezelünk `<form>`-mal küldött adatot?***
 
-Példa egy jelszó küldésre:
+Példa egy password mező fogadására:
 ```py
 @app.post("/param/form")
 def get_form_param():
